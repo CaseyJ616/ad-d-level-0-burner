@@ -24,9 +24,11 @@ on a 15-19, The spell is lost as the scroll crumbles to dust.
 On a 20, they cast reckless dweomer
 
 Peasents & Wonderous items:
+
 A level 0 adventuruer can use wonderous items not class restricted.
 
 -Reading the results-
+
 Proficiencies:
 Non-weapon profs are formatted on the sheet as:
 proficiency name - Relevant stat- Stat adjust
