@@ -1,5 +1,7 @@
 This is a small and silly way to generate level 0 characters using a custom rule set for ad&d 2e. 
 
+COPY OVER AS IT, THE BURNER DOES ALL STAT?HP ADJUST FOR YOU!!!
+
 Rule changes:
 
 Custom save scores:
